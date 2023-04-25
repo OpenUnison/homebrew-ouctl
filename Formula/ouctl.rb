@@ -1,4 +1,3 @@
-
 class Ouctl < Formula
   desc "Deploys openunison into kubernetes"
   homepage "https://openunison.github.io/deployauth/"
