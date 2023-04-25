@@ -1,5 +1,5 @@
 
-class OuctlV0010 < Formula
+class Ouctl < Formula
   desc "Deploys openunison into kubernetes"
   homepage "https://openunison.github.io/deployauth/"
   url "https://github.com/TremoloSecurity/openunison-control/archive/refs/tags/v0.0.10.tar.gz"
